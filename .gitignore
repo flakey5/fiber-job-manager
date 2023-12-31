@@ -1,0 +1,4 @@
+.bin/
+.obj/
+.pmk/
+premake5.exe
